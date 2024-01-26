@@ -6,6 +6,8 @@
 
 ### OBS: É necessário descompactar o arquivo 'datasets' para acessar a pasta contendo o arquivo 'Oficina.csv', a fim de executar o código sem erros.
 
+## O projeto é 100% autoral, pois o ETL da base de dados no dataset foi feito do absoluto zero, não expondo dados sensíveis e estratégicos, servindo apenas para exercício de aprendizado.
+
 # Pitch - Sustainable Renewal of Truck Fleets
 
 ### Here is the machine learning model for clustering customers who own vehicles with advanced age and high maintenance costs.
@@ -13,3 +15,5 @@
 ### The model was applied to both non-normalized and normalized data, highlighting the importance of normalization.
 
 ### OBS: You need to unzip the 'datasets' file to access the folder containing the 'Oficina.csv' file in order to execute the code without errors.
+
+## The project is 100% original, as the ETL of the database in the dataset was done from scratch, not exposing sensitive data and strategic data, serving only as a learning exercise.
