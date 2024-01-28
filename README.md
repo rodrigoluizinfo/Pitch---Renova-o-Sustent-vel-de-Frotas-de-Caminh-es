@@ -13,7 +13,7 @@
 # Pitch - Sustainable Renewal of Truck Fleets
 
 ### Here is the machine learning model for clustering customers who own vehicles with advanced age and high maintenance costs.
-### P.S: The unsupervised learning model - DBSCAN - was used
+### P.S: The unsupervised learning model was used is DBSCAN. 
 ### P.S: The model was applied to both non-normalized and normalized data, highlighting the importance of normalization.
 
 ### OBS: You need to unzip the datasets.zip file to access the folder containing the Oficina.csv file in order to execute the code without errors.
